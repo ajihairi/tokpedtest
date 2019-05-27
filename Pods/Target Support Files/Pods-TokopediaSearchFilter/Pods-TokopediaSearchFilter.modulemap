@@ -1,0 +1,6 @@
+framework module Pods_TokopediaSearchFilter {
+  umbrella header "Pods-TokopediaSearchFilter-umbrella.h"
+
+  export *
+  module * { export * }
+}
